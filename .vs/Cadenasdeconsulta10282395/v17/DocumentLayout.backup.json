@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MINEDUCYT\\OneDrive\\Nueva carpeta\\OneDrive\\Desktop\\Practica 3\\Cadenasdeconsulta10282395\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D62F1B-7EDA-485F-8E71-77BF521E0398}|Cadenasdeconsulta10282395\\Cadenasdeconsulta10282395.csproj|C:\\Users\\MINEDUCYT\\OneDrive\\Nueva carpeta\\OneDrive\\Desktop\\Practica 3\\Cadenasdeconsulta10282395\\cadenasdeconsulta10282395\\cadenasdeconsulta.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{C4D62F1B-7EDA-485F-8E71-77BF521E0398}|Cadenasdeconsulta10282395\\Cadenasdeconsulta10282395.csproj|solutionrelative:cadenasdeconsulta10282395\\cadenasdeconsulta.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D62F1B-7EDA-485F-8E71-77BF521E0398}|Cadenasdeconsulta10282395\\Cadenasdeconsulta10282395.csproj|c:\\users\\mineducyt\\onedrive\\nueva carpeta\\onedrive\\desktop\\practica 3\\cadenasdeconsulta10282395\\cadenasdeconsulta10282395\\cadenasdeconsulta.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4D62F1B-7EDA-485F-8E71-77BF521E0398}|Cadenasdeconsulta10282395\\Cadenasdeconsulta10282395.csproj|solutionrelative:cadenasdeconsulta10282395\\cadenasdeconsulta.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cadenasdeconsulta.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\MINEDUCYT\\OneDrive\\Nueva carpeta\\OneDrive\\Desktop\\Practica 3\\Cadenasdeconsulta10282395\\Cadenasdeconsulta10282395\\Cadenasdeconsulta.aspx.cs",
+              "RelativeDocumentMoniker": "Cadenasdeconsulta10282395\\Cadenasdeconsulta.aspx.cs",
+              "ToolTip": "C:\\Users\\MINEDUCYT\\OneDrive\\Nueva carpeta\\OneDrive\\Desktop\\Practica 3\\Cadenasdeconsulta10282395\\Cadenasdeconsulta10282395\\Cadenasdeconsulta.aspx.cs",
+              "RelativeToolTip": "Cadenasdeconsulta10282395\\Cadenasdeconsulta.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T20:00:27.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cadenasdeconsulta.aspx",
+              "DocumentMoniker": "C:\\Users\\MINEDUCYT\\OneDrive\\Nueva carpeta\\OneDrive\\Desktop\\Practica 3\\Cadenasdeconsulta10282395\\Cadenasdeconsulta10282395\\Cadenasdeconsulta.aspx",
+              "RelativeDocumentMoniker": "Cadenasdeconsulta10282395\\Cadenasdeconsulta.aspx",
+              "ToolTip": "C:\\Users\\MINEDUCYT\\OneDrive\\Nueva carpeta\\OneDrive\\Desktop\\Practica 3\\Cadenasdeconsulta10282395\\Cadenasdeconsulta10282395\\Cadenasdeconsulta.aspx",
+              "RelativeToolTip": "Cadenasdeconsulta10282395\\Cadenasdeconsulta.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-03T19:57:45.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
