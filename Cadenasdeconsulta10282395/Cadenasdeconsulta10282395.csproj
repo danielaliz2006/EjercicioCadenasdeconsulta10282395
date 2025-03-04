@@ -68,6 +68,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Cadenasdeconsulta.aspx" />
+    <Content Include="ProductConfirmQueryStrings.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -77,6 +78,13 @@
     </Compile>
     <Compile Include="Cadenasdeconsulta.aspx.designer.cs">
       <DependentUpon>Cadenasdeconsulta.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ProductConfirmQueryStrings.aspx.cs">
+      <DependentUpon>ProductConfirmQueryStrings.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ProductConfirmQueryStrings.aspx.designer.cs">
+      <DependentUpon>ProductConfirmQueryStrings.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
